@@ -17,4 +17,4 @@
 - 📫 How to reach me: Hit me up on [LinkedIn](https://www.linkedin.com/in/sukumar-ganesan-09867419a/)
 - ⚡ Fun fact: I'm a tech enthusiast
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukumar1612&theme=gotham&hide_border=true&langs_count=7)](https://github.com/sukumar1612)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukumar1612&theme=gotham&hide_border=true&langs_count=7&layout=compact)](https://github.com/sukumar1612)
