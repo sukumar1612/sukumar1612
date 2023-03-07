@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning big data
+- 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate on new and interesting projects
 - 📫 How to reach me: Hit me up on [LinkedIn](https://www.linkedin.com/in/sukumar-ganesan-09867419a/)
 - ⚡ Fun fact: I'm a tech enthusiast
