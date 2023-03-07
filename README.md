@@ -11,7 +11,7 @@
 **sukumar1612/sukumar1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukumar1612&layout=compact&theme=gotham&hide_border=true&langs_count=10)](https://github.com/sukumar1612)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukumar1612&theme=gotham&hide_border=true&langs_count=7)](https://github.com/sukumar1612)
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning data science
